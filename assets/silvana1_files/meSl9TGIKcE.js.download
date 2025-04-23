@@ -1,3 +1,0 @@
-;/*FB_PKG_DELIM*/
-
-__d("IGDSMessagesFilledIcon.react",["cr:20061","qex","react","react-compiler-runtime"],(function(a,b,c,d,e,f,g){"use strict";var h,i=h||c("react"),j=c("qex")._("3938");function a(a){var c=d("react-compiler-runtime").c(7),e=a.altDeprecated,f=a.alt,g=a["aria-labelledby"],h=a.color,k=a["data-testid"],l=a.shadow;a=a.size;h=h===void 0?"ig-primary-text":h;l=l===void 0?!1:l;a=a===void 0?24:a;f=j===!0||e==null?f:e;c[0]!==g||c[1]!==h||c[2]!==k||c[3]!==l||c[4]!==a||c[5]!==f?(e=i.jsx(b("cr:20061"),{alt:f,"aria-labelledby":g,color:h,"data-testid":void 0,shadow:l,size:a}),c[0]=g,c[1]=h,c[2]=k,c[3]=l,c[4]=a,c[5]=f,c[6]=e):e=c[6];return e}g["default"]=a}),98);
